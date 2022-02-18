@@ -1,6 +1,15 @@
-.object{
-    width: 100px;
+.setion{
+    display: flex;
+}
+.object1 {
+    width: 150px;
     height: 150px;
     border: 3px solid red;
+    background-color: azure;
+}
+.object2 {
+    width: 200px;
+    height: 150px;
+    border: 3px dashed red;
     background-color: azure;
 }
